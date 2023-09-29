@@ -45,7 +45,7 @@ REQUIRED SECTIONS:
 - [📝 License](#license)
 
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 [Sushi for you] <a name="about-project"></a>
 
 
 
@@ -57,14 +57,14 @@ REQUIRED SECTIONS:
 
 
 <details>
-  <summary>Client</summary>
+  <summary>Structure</summary>
   <ul>
     <li><a href="https://html.spec.whatwg.org//">Html</a></li>
   </ul>
 </details>
 
 <details>
-  <summary>Server</summary>
+  <summary>Style</summary>
   <ul>
     <li><a href="https://www.w3.org/Style/CSS//">CSS</a></li>
   </ul>
@@ -94,7 +94,7 @@ REQUIRED SECTIONS:
 ## 🚀 Live Demo <a name="live-demo"></a>
 
 
-- [Live Demo Link](https://sushiforyou.netlify.app/)
+- [sushi for you](https://sushiforyou.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -109,39 +109,29 @@ To get a local copy up and running, follow these steps.
 
 In order to run this project you need:
 
-<!--
-Example command:
-
 ```sh
  npm install
 ```
- -->
+
 
 ### Setup
 
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
-
 ```sh
   cd sushiman
   git clone git@github.com:Piercel2022/sushiman.git
 ```
---->
 
 ### Install
 
 Install this project with:
 
-<!--
-Example command:
 
 ```sh
   cd sushiman
   npm install
 ```
---->
 
 
 ### Deployment
