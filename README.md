@@ -120,8 +120,8 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 ```sh
-  cd sushiman
-  git clone git@github.com:Piercel2022/sushiman.git
+  cd sushiforyou
+  git clone git@github.com:Piercel2022/sushiforyou.git
 ```
 
 ### Install
@@ -130,7 +130,7 @@ Install this project with:
 
 
 ```sh
-  cd sushiman
+  cd sushiforyou
   npm install
 ```
 
