@@ -46,7 +46,7 @@ REQUIRED SECTIONS:
 
 
 # 📖 [Sushi for you] <a name="about-project"></a>
-![Sushi_mobile](https://github.com/Piercel2022/sushiman/assets/98626003/14db3b55-be75-4971-9da5-baaa927aa1f1)
+![Sushi](https://github.com/Piercel2022/sushiman/assets/98626003/c855af66-1827-4034-9170-007f016fbfba)
 
 
 
